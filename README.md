@@ -1,64 +1,64 @@
-#  SendiApp
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/22584900/64835632-59c32b00-d619-11e9-8be3-820c33856947.png" width="180"/>
+  <img src="https://user-images.githubusercontent.com/22584900/64835735-b292c380-d619-11e9-8f27-3e6dde06a379.png" width="800" />
+</h1>
 
-* Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
+<em>showcase purposes only</em>
 
-## :arrow_up: How to Setup
+built with [React Native](https://facebook.github.io/react-native/)
 
-**Step 1:** git clone this repo:
-
-**Step 2:** cd to the cloned repo:
-
-**Step 3:** Install the Application with `npm install`
+# About The App
 
 
-## :arrow_forward: How to Run App
+### About HiSendi
+https://www.facebook.com/Sendi.SG/  
 
-1. cd to the repo
-2. Run Build for either OS
-  * for iOS
-    * run `react-native run-ios`
-  * for Android
-    * Run Genymotion
-    * run `react-native run-android`
 
-## :no_entry_sign: Standard Compliant
+### My Contribution
+Solely built the app from the ground-up for both Android and iOS
 
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
-This project adheres to Standard.  Our CI enforces this, so we suggest you enable linting to keep your project compliant during development.
+### Store Listing
+Google Play Store  
+https://play.google.com/store/apps/details?id=com.prospark  
+<img src="https://user-images.githubusercontent.com/22584900/64778941-774bb280-d58f-11e9-9611-5671c8aa2f46.JPG" width="300"/>
 
-**To Lint on Commit**
+Apple Store  
+https://itunes.apple.com/us/app/prospark-transforms-learning/id1438625157?ls=1&mt=8  
+<img src="https://user-images.githubusercontent.com/22584900/64779196-035dda00-d590-11e9-985a-5021487a14a5.JPG" width="300"/>
 
-This is implemented using [ghooks](https://github.com/gtramontina/ghooks). There is no additional setup needed.
+### Notable Features
+* Dynamic customizations using CodePush and GIT
+* Supports 3 languages: English, Bahasa and Vietnamese
+* Chat
+* QR Code scanning
+* Local storage
+* Analytics using Firebase
+* Network connectivity detection
+* Display charts
+* File browsing and photo capturing
+* Play audio and video
+* View PDF documents
 
-**Bypass Lint**
-
-If you have to bypass lint for a special commit that you will come back and clean (pushing something to a branch etc.) then you can bypass git hooks with adding `--no-verify` to your commit command.
-
-**Understanding Linting Errors**
-
-The linting rules are from JS Standard and React-Standard.  [Regular JS errors can be found with descriptions here](http://eslint.org/docs/rules/), while [React errors and descriptions can be found here](https://github.com/yannickcr/eslint-plugin-react).
-
-## :closed_lock_with_key: Secrets
-
-This project uses [react-native-config](https://github.com/luggit/react-native-config) to expose config variables to your javascript code in React Native. You can store API keys
-and other sensitive information in a `.env` file:
-
-```
-API_URL=https://myapi.com
-GOOGLE_MAPS_API_KEY=abcdefgh
-```
-
-and access them from React Native like so:
-
-```
-import Secrets from 'react-native-config'
-
-Secrets.API_URL  // 'https://myapi.com'
-Secrets.GOOGLE_MAPS_API_KEY  // 'abcdefgh'
-```
-
-The `.env` file is ignored by git keeping those secrets out of your repo.
-
-## :open_file_folder: Related Articles
-Ignite Documentation - [Ignite Wiki https://github.com/infinitered/ignite/wiki](https://github.com/infinitered/ignite/wiki)
+### Notable Libraries Used
+* [axios](https://github.com/axios/axios)
+* [react-native-camera](https://github.com/react-native-community/react-native-camera)
+* [react-native-code-push](https://github.com/microsoft/react-native-code-push)
+* [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info)
+* [react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob)
+* [react-native-file-picker](https://github.com/luisfuertes/react-native-file-picker)
+* [react-native-firebase](https://github.com/invertase/react-native-firebase)
+* [react-native-image-picker](https://github.com/react-native-community/react-native-image-picker)
+* [react-native-orientation](https://github.com/yamill/react-native-orientation)
+* [react-native-pdf](https://github.com/wonday/react-native-pdf)
+* [react-native-restart](https://github.com/avishayil/react-native-restart)
+* [react-native-root-toast](https://github.com/magicismight/react-native-root-toast)
+* [react-native-sound](https://github.com/zmxv/react-native-sound)
+* [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)
+* [react-native-storage](https://github.com/sunnylqm/react-native-storage)
+* [react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts)
+* [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+* [react-native-video](https://github.com/react-native-community/react-native-video)
+* [react-navigation](https://reactnavigation.org/)
+* [react-redux](https://github.com/reduxjs/react-redux)
+* [redux](https://github.com/reduxjs/redux)
+* [redux-persist](https://github.com/rt2zz/redux-persist)
