@@ -8,7 +8,7 @@
 built with [React Native](https://facebook.github.io/react-native/)
 
 # About The App
-
+Teachers and parents, students connect with one another through an easier platform in school which they can send quick announcements, photo sharing and attendance
 
 ### About HiSendi
 https://www.facebook.com/Sendi.SG/  
@@ -19,43 +19,27 @@ Solely built the app from the ground-up for both Android and iOS
 
 ### Store Listing
 Google Play Store  
-https://play.google.com/store/apps/details?id=com.prospark  
-<img src="https://user-images.githubusercontent.com/22584900/64778941-774bb280-d58f-11e9-9611-5671c8aa2f46.JPG" width="300"/>
+https://play.google.com/store/apps/details?id=com.sendiapp  
+<img src="https://user-images.githubusercontent.com/22584900/64836750-ea9c0580-d61d-11e9-8667-c35ca5bd1186.png" width="300"/>
 
 Apple Store  
-https://itunes.apple.com/us/app/prospark-transforms-learning/id1438625157?ls=1&mt=8  
-<img src="https://user-images.githubusercontent.com/22584900/64779196-035dda00-d590-11e9-985a-5021487a14a5.JPG" width="300"/>
+https://itunes.apple.com/us/app/hisendi/id1167385187?ls=1&mt=8  
+<img src="https://user-images.githubusercontent.com/22584900/64836712-c2aca200-d61d-11e9-832c-f019d497efcf.png" width="300"/>
 
 ### Notable Features
-* Dynamic customizations using CodePush and GIT
-* Supports 3 languages: English, Bahasa and Vietnamese
-* Chat
-* QR Code scanning
 * Local storage
-* Analytics using Firebase
 * Network connectivity detection
-* Display charts
 * File browsing and photo capturing
-* Play audio and video
-* View PDF documents
+* Photo Gallery
 
 ### Notable Libraries Used
-* [axios](https://github.com/axios/axios)
-* [react-native-camera](https://github.com/react-native-community/react-native-camera)
-* [react-native-code-push](https://github.com/microsoft/react-native-code-push)
 * [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info)
 * [react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob)
 * [react-native-file-picker](https://github.com/luisfuertes/react-native-file-picker)
-* [react-native-firebase](https://github.com/invertase/react-native-firebase)
 * [react-native-image-picker](https://github.com/react-native-community/react-native-image-picker)
-* [react-native-orientation](https://github.com/yamill/react-native-orientation)
-* [react-native-pdf](https://github.com/wonday/react-native-pdf)
-* [react-native-restart](https://github.com/avishayil/react-native-restart)
 * [react-native-root-toast](https://github.com/magicismight/react-native-root-toast)
-* [react-native-sound](https://github.com/zmxv/react-native-sound)
 * [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)
 * [react-native-storage](https://github.com/sunnylqm/react-native-storage)
-* [react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts)
 * [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 * [react-native-video](https://github.com/react-native-community/react-native-video)
 * [react-navigation](https://reactnavigation.org/)
